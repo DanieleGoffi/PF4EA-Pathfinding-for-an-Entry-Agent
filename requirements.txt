@@ -1,0 +1,11 @@
+# Per eseguire l'applicazione sono necessari i seguenti moduli:
+tracemalloc
+tkinter
+matplotlib
+memory_profiler
+timeout_decorator
+networkx
+bisect
+time
+random
+numpy
